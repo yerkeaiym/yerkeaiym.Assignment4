@@ -1,0 +1,15 @@
+In this Assignment we work in this task 
+Web page should provide input text field and receive coin name
+Once coin name is provided and pressed CHECK button, web page should display list of paragraphs
+Store parsed news and blogs from Task 2 into the database
+Web server should provide at least 1 route
+Receive as input coin name
+/coin
+Also, for that we use flask (https://flask.palletsprojects.com/en/2.0.x/)
+flask_sqlalchemy (https://flask-sqlalchemy.palletsprojects.com/en/2.x/)
+requests  (https://pypi.org/project/requests/)
+beautifulSoup (https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+
+this kind of libraries. 
+
+This assignment done by SE-2012 Yerkeaiym Zholdykaraeva, SE-2011 Zhanna Bekzhanova.
